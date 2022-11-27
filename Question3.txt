@@ -1,0 +1,4 @@
+A) find past commands
+B) 'ls -a' is used to find all the hidden directories
+C) Not used linux based OS.
+D) Yes, I have used Apache Tomcat Server & Nginx server. I have used Apache while I was training full stack.
